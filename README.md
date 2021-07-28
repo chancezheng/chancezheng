@@ -6,10 +6,18 @@
   <a align="right"><img src="https://profile-counter.glitch.me/chancezheng/count.svg" alt="访客数量"/></a>
 </p>
 
-![ChanceZheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chancezheng&show_icons=true&theme=radical)
+---
+<h3>Github Stats:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chancezheng&show_icons=true&theme=radical&title_color=FF8521&text_color=56F059&icon_color=56FFFF&bg_color=212121">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chancezheng&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121">
+  <img src="https://github-profile-trophy.vercel.app/?username=chancezheng&theme=oldie&column=3&margin-w=20&margin-h=20">
+</div>
 
-
-<!--START_SECTION:waka-->
+---
+# 📊 Weekly Development Breakdown
+<!--START_SECTION:waka--> 
 <!--END_SECTION:waka-->
 
 <!-- - 🔭 I’m currently working on Medical Industry 
@@ -20,3 +28,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+
+
+
