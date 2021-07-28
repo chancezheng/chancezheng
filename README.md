@@ -6,8 +6,8 @@
   <a align="right"><img src="https://profile-counter.glitch.me/chancezheng/count.svg" alt="访客数量"/></a>
 </p>
 
----
-<h3>Github Stats:</h3>
+
+<h2>Github Stats:</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chancezheng&show_icons=true&theme=radical&title_color=FF8521&text_color=56F059&icon_color=56FFFF&bg_color=212121">
   <br />
@@ -16,7 +16,7 @@
 </div>
 
 ---
-# 📊 Weekly Development Breakdown
+## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka--> 
 <!--END_SECTION:waka-->
 
