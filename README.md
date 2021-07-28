@@ -15,11 +15,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=chancezheng&theme=oldie&column=3&margin-w=20&margin-h=20">
 </div>
 
----
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka--> 
-<!--END_SECTION:waka-->
-
 <!-- - 🔭 I’m currently working on Medical Industry 
 - 🌱 I’m currently review c++
 - 👯 I’m looking to collaborate on ...
@@ -28,6 +23,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+---
+## 📊 Weekly Development Breakdown
+<!--START_SECTION:waka--> 
+<!--END_SECTION:waka-->
 
 
 
