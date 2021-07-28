@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/chancezheng"><img src="https://img.shields.io/badge/GitHub-dodgerblue" alt="github"></a>
   <a href="https://gitee.com/ChanceZXY"><img src="https://img.shields.io/badge/Gitee-orangered" alt="gitee"></a>
-  <a><imgsrc="https://profile-counter.glitch.me/chancezheng/count.svg" alt="访客数量"/></a>
+  <a><img src="https://profile-counter.glitch.me/chancezheng/count.svg" alt="访客数量"/></a>
 </p>
 
 
@@ -17,6 +17,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!-- START_SECTION:waka -->
-
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
