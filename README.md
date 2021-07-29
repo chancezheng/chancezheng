@@ -28,6 +28,11 @@
 ---
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+```text
+Week: 22 July, 2021 - 28 July, 2021
+
+Markdown   3 hrs 35 mins   █████████████████████████   99.97 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- ```text
