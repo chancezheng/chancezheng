@@ -29,7 +29,7 @@
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2021 - 30 September, 2021
+Week: 25 September, 2021 - 01 October, 2021
 
 XAML    13 hrs 38 mins  ███████████████████░░░░░░   75.68 % 
 C#      4 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.10 % 
