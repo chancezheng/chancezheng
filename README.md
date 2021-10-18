@@ -29,7 +29,7 @@
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2021 - 16 October, 2021
+Week: 11 October, 2021 - 17 October, 2021
 
 C#         12 hrs 23 mins  ████████████████▓░░░░░░░░   66.98 % 
 Other      3 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.36 % 
