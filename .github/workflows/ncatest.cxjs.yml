@@ -1,11 +1,10 @@
-name: CX.JS
+name: Ncatest.cx.js
 
 on:
   push:
     branches:
       - main
-  schedule:
-    #?????????5?????????+8????????1??????
+  schedule:   
     - cron: '0 5 * * *' 
 
 jobs:
@@ -22,4 +21,4 @@ jobs:
       - run: npm init
       - run: npm install got --save
       - run: npm install tough-cookie --save
-      - run: node cx.js
+      - run: node .\cx.js
