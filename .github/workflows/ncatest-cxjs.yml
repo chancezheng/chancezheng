@@ -22,7 +22,5 @@ jobs:
         run: |
           npm install
           npm install got
-          npm install tough-cookie
-          
-      - uses: ./scripts
-          node cx.js
+          npm install tough-cookie         
+          node ./scripts/cx.js
