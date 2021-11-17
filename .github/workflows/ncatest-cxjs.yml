@@ -3,7 +3,7 @@ name: Ncatest.cx.js
 on:
   push:
     branches:
-      - main
+      - chance_dev
   schedule:   
     - cron: '0 5 * * *' 
 
