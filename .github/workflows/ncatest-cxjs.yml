@@ -1,4 +1,4 @@
-name: Ncatest.cx.js
+name: ncatest.cx.js
 
 on:
   push:
@@ -21,4 +21,4 @@ jobs:
           npm install
           npm install got
           npm install tough-cookie
-          node .\cx.js
+          node cx.js
