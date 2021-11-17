@@ -3,7 +3,7 @@ name: Ncatest.cx.js
 on:
   push:
     branches:
-      - chance_dev
+      - main
   schedule:   
     - cron: '0 5 * * *' 
 
@@ -17,8 +17,8 @@ jobs:
           node-version: '14'
           
       - name: Install Dependency
-      - run: npm install
-      - run: npm init
-      - run: npm install got --save
-      - run: npm install tough-cookie --save
-      - run: node .\cx.js
+        run: npm install
+        run: npm init
+        run: npm install got --save
+        run: npm install tough-cookie --save
+        run: node .\cx.js
