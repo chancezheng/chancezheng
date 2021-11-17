@@ -1,0 +1,24 @@
+name: CX.JS
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 5 * * *' #国际标准时间5点（北京时间+8，即下午1点）运行
+
+jobs:
+  run-csjs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Node.js
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          
+      - name: Install Dependency
+      - run: npm install
+      - run: npm init
+      - run: npm install got --save
+      - run: npm install tough-cookie --save
+      - run: node cx.js
