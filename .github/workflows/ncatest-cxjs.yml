@@ -19,7 +19,6 @@ jobs:
       - name: Install Dependency
         run: |
           npm install
-          npm init
-          npm install got --save
-          npm install tough-cookie --save
+          npm install got
+          npm install tough-cookie
           node .\cx.js
