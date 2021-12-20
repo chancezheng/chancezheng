@@ -21,6 +21,6 @@ jobs:
       - name: Install Dependency       
         run: |
           npm install
-          npm install got
+          npm install got@11.8.2
           npm install tough-cookie         
           node ./scripts/cx.js
