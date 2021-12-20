@@ -11,9 +11,9 @@ b2arr = [
     "submitdata=1%24S210819009%7D15%24E03107%7D27%24%E8%83%A1%E6%B1%89%E5%91%A8%7D33%24%E5%90%A6%7D34%24(%E8%B7%B3%E8%BF%87)%7D35%24%E6%97%A0%E5%BC%82%E5%B8%B8%7D49%24%E6%98%AF%7D50%24d6gh"
 ];
 u3arr = [
-    "https://vsurvey.cxmt.com:8011/Survey/GetAKCode?badge=s210820017",
-    "https://vsurvey.cxmt.com:8011/Survey/GetAKCode?badge=S210702032",
-    "https://vsurvey.cxmt.com:8011/Survey/GetAKCode?badge=S210708054",
+    // "https://vsurvey.cxmt.com:8011/Survey/GetAKCode?badge=s210820017",
+    // "https://vsurvey.cxmt.com:8011/Survey/GetAKCode?badge=S210702032",
+    // "https://vsurvey.cxmt.com:8011/Survey/GetAKCode?badge=S210708054",
     "https://vsurvey.cxmt.com:8011/Survey/GetAKCode?badge=S210819009"
 ];
 const $ = new Env('CX每日签到')
