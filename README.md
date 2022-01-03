@@ -29,7 +29,7 @@
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
 Other      36 hrs 40 mins  ██████████████████████▓░░   90.20 % 
 C#         1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
