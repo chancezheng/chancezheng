@@ -29,7 +29,9 @@
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 February, 2022 - 07 February, 2022
+
+Other   4 hrs 4 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
