@@ -29,9 +29,9 @@
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
-Other   13 hrs 39 mins  █████████████████████████   100.00 % 
+Other   19 hrs 5 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
