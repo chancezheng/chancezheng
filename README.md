@@ -30,10 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 01 March 2022
+From: 23 February 2022 - To: 02 March 2022
 
-C#      2 hrs 57 mins   ████████████░░░░░░░░░░░░░   47.79 %
-Other   2 hrs 28 mins   ██████████░░░░░░░░░░░░░░░   39.98 %
+Other   1 hr 59 mins    ███████████▒░░░░░░░░░░░░░   45.15 %
 ```
 
 <!--END_SECTION:waka-->
