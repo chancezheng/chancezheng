@@ -30,10 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 March 2022 - To: 10 March 2022
+From: 04 March 2022 - To: 11 March 2022
 
-C#      51 mins         ████████████████████░░░░░   79.58 %
-Other   13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+Markdown   1 hr 6 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
