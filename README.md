@@ -30,10 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2022 - To: 15 March 2022
+From: 09 March 2022 - To: 16 March 2022
 
-Markdown   1 hr 6 mins     ████████████░░░░░░░░░░░░░   47.54 %
-Other      43 mins         ███████▓░░░░░░░░░░░░░░░░░   31.17 %
+Other      9 hrs 18 mins   █████████████████████▒░░░   85.35 %
 ```
 
 <!--END_SECTION:waka-->
