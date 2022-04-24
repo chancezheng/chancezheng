@@ -30,10 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2022 - To: 22 April 2022
-
-C#      57 mins         ███████████████████████▓░   94.81 %
-Other   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
