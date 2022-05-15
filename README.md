@@ -30,9 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2022 - To: 13 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
-Other           30 hrs 51 mins  ███████████████▒░░░░░░░░░   61.91 %
+Other           23 hrs 18 mins  ████████████████░░░░░░░░░   63.55 %
 ```
 
 <!--END_SECTION:waka-->
