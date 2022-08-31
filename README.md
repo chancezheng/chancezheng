@@ -30,12 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 29 August 2022
+From: 23 August 2022 - To: 30 August 2022
 
-C#              11 mins         ███████████████████████░░   92.64 %
-WiX Installer   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-XAML            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Other           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+XML             54 mins         █████████████░░░░░░░░░░░░   51.68 %
+Other           32 mins         ███████▓░░░░░░░░░░░░░░░░░   30.48 %
 ```
 
 <!--END_SECTION:waka-->
