@@ -30,7 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 October 2022 - To: 10 October 2022
+
+Other   2 hrs 30 mins   █████████████████████▓░░░   86.20 %
 ```
 
 <!--END_SECTION:waka-->
