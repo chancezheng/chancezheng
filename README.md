@@ -30,9 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 13 November 2022
+From: 07 November 2022 - To: 14 November 2022
 
-Other   6 hrs 22 mins   ████████████████▒░░░░░░░░   65.03 %
+XAML    1 hr 31 mins    ████████▒░░░░░░░░░░░░░░░░   33.38 %
+Other   1 hr 23 mins    ███████▓░░░░░░░░░░░░░░░░░   30.67 %
 ```
 
 <!--END_SECTION:waka-->
