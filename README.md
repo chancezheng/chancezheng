@@ -30,11 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
-
-Python     46 mins         █████████▒░░░░░░░░░░░░░░░   37.93 %
-C#         31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
-Other      28 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
