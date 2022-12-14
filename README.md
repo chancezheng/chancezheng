@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 12 December 2022
+From: 06 December 2022 - To: 13 December 2022
 
-C#      15 mins         █████████████████▒░░░░░░░   69.67 %
-XAML    4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-Other   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+C#      8 mins          ██████████████░░░░░░░░░░░   56.38 %
+XAML    4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
+Other   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
 ```
 
 <!--END_SECTION:waka-->
