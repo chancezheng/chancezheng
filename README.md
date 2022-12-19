@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 17 December 2022
+From: 11 December 2022 - To: 18 December 2022
 
 C#      2 hrs 8 mins    ████████████████▒░░░░░░░░   65.70 %
 Other   35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
