@@ -30,7 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 January 2023 - To: 11 January 2023
+
+Python     2 hrs 1 min     ███████████████████████▓░   94.61 %
+Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
