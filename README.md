@@ -30,12 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-Python     2 hrs 1 min     ███████████████████████▓░   94.61 %
-Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
