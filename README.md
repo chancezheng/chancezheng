@@ -30,10 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 01 February 2023
+From: 26 January 2023 - To: 02 February 2023
 
-Markdown   20 mins         █████████████████████████   99.90 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other      2 hrs 3 mins    █████████████████████▒░░░   85.56 %
 ```
 
 <!--END_SECTION:waka-->
