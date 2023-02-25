@@ -30,9 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2023 - To: 23 February 2023
+From: 17 February 2023 - To: 24 February 2023
 
-Other    20 hrs 12 mins  ███████████▒░░░░░░░░░░░░░   44.76 %
+Other    18 hrs 50 mins  ████████████░░░░░░░░░░░░░   48.58 %
 ```
 
 <!--END_SECTION:waka-->
