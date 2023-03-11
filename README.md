@@ -30,9 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2023 - To: 09 March 2023
+From: 03 March 2023 - To: 10 March 2023
 
-Other    2 hrs 41 mins   ███████████░░░░░░░░░░░░░░   43.40 %
+Other    4 hrs 13 mins   ████████▒░░░░░░░░░░░░░░░░   32.72 %
 ```
 
 <!--END_SECTION:waka-->
