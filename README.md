@@ -30,9 +30,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-Other           1 hr 56 mins    ████████████████▓░░░░░░░░   67.15 %
+WiX Installer   43 mins         ███████████████████▒░░░░░   77.44 %
+C#              11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+C++             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Binary          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Singularity     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
