@@ -30,10 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-WiX Installer   43 mins         ████████████▒░░░░░░░░░░░░   49.96 %
-Other           17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+Other           39 mins         ████████▒░░░░░░░░░░░░░░░░   33.26 %
 ```
 
 <!--END_SECTION:waka-->
