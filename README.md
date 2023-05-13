@@ -30,10 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2023 - To: 11 May 2023
+From: 05 May 2023 - To: 12 May 2023
 
-Other   12 hrs 55 mins  █████████████████████████   99.95 %
-C#      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other   12 hrs 9 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
